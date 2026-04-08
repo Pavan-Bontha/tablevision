@@ -1,0 +1,12 @@
+{
+  "restaurant_name": "TableVision Demo",
+  "avg_dining_minutes": 45,
+  "tables": [
+    {"table_id": 1, "capacity": 2, "center_x": 150, "center_y": 150, "crop_box": [50, 50, 250, 250]},
+    {"table_id": 2, "capacity": 4, "center_x": 400, "center_y": 150, "crop_box": [300, 50, 500, 250]},
+    {"table_id": 3, "capacity": 2, "center_x": 650, "center_y": 150, "crop_box": [550, 50, 750, 250]},
+    {"table_id": 4, "capacity": 6, "center_x": 150, "center_y": 400, "crop_box": [50, 300, 250, 500]},
+    {"table_id": 5, "capacity": 4, "center_x": 400, "center_y": 400, "crop_box": [300, 300, 500, 500]},
+    {"table_id": 6, "capacity": 2, "center_x": 650, "center_y": 400, "crop_box": [550, 300, 750, 500]}
+  ]
+}
