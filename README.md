@@ -102,4 +102,4 @@ tablevision/
 
 ---
 
-## Built at AI-Nexus 24Hr Hackathon
+## Built at Innovatex 4.0, Presidency University
