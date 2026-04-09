@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import time
 
-API = "http://127.0.0.1:8000"
+API = "https://tablevision-backend.onrender.com"
 
 st.set_page_config(
     page_title="TableVision AI",
