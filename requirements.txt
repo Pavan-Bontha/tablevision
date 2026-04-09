@@ -6,4 +6,4 @@ opencv-python-headless==4.9.0.80
 python-dotenv==1.0.1
 streamlit==1.32.2
 requests==2.31.0
-pillow>=11.1.0
+pillow==10.4.0
